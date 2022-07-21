@@ -50,13 +50,13 @@ body {
 }
 
 #gift-img-cheers {
-    height: 200px;
+    height: 250px;
 }
 
 .gift-img {
     margin: 20px auto;
-    max-width: 400px;
-    height: 400px;
+    max-width: 500px;
+    height: 500px;
     border: 6px solid white;
     border-radius: 10px;
     background-image: url("images/gift-cover.jpg");
